@@ -1,0 +1,34 @@
+body
+{
+    background-color: whitesmoke;
+}
+.top
+{
+    height: 60px;
+    width: 600px;
+    margin: 0 auto;
+    background-color: dimgray;
+    align-content:center;
+    text-align: center;
+}
+.booth
+{
+    width: 400px;
+    background: dimgray;
+    border: 10px solid blue;
+    margin: 0 auto;
+}
+.Capture_Button
+{
+    display: block;
+    margin: 10px 5px;
+    padding: 10px 20px;
+    background-color: darkblue;
+    color: royalblue;
+    text-align: center;
+    text-decoration: none;
+}
+#canvas
+{
+    display: none;
+}
